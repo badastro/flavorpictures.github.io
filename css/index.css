@@ -2852,7 +2852,7 @@ a {
 /* Body and Containers
 ----------------------------------------------------------------------------------------------------*/
 body, html {
-	background: #000d1d;
+	background: #000011;
 }
 
 #keystone-content {
@@ -3538,7 +3538,7 @@ header .shelf-button {
 	left: 0;
 	right: 0;
 	bottom: 0;
-	background: #000d1d;
+	background: #000011;
 	background: rgba(0, 13, 29, 0.75) !important;
 	width: 100%;
 	height: 100%;
@@ -6708,7 +6708,7 @@ body.admin-bar #main_header {
 }
 
 body.is-scrolling #main_header {
-	background: #0c1e34;
+	background: #5f4b8b;
 }
 
 @media (max-width: 1024px) {
@@ -7211,7 +7211,7 @@ header .header-top .header-right .search-wrapper .search-icon {
     ordered & tabbed in a way that represents the nesting of the generated HTML.
 */
 #cboxOverlay {
-	background: #000d1d;
+	background: #000011;
 	opacity: 0.75 !important;
 	filter: alpha(opacity=75);
 }
@@ -7762,7 +7762,7 @@ header .header-top .header-right .search-wrapper .search-icon {
 }
 
 body:not(.isTouch):hover .inline-newsletter #mc_embed_signup input.button {
-	background: #000d1d;
+	background: #000011;
 }
 
 #mc_embed_signup {
@@ -8341,7 +8341,7 @@ body:not(.isTouch) .singleDetailGallery .sectionContent-items:hover .photoCard .
 }
 
 .videoCard .videoCard-details {
-	background: #000d1d;
+	background: #000011;
 	color: #fff;
 	display: flex;
 	flex-direction: column;
@@ -8440,7 +8440,7 @@ body:not(.isTouch) .videoCard:hover .videoCard-playIcon {
 }
 
 .feed-row .feed-scroll .preview-block .preview-content {
-	background: #0c1d31;
+	background: #1d1e27;
 	padding: 1rem 1rem 0 1rem;
 	min-height: 135px;
 }
@@ -8840,7 +8840,7 @@ body:not(.isTouch) .videoCard:hover .videoCard-playIcon {
 }
 
 .aboutCareers:before {
-	background: #000d1d;
+	background: #000011;
 	content: '';
 	display: block;
 	position: absolute;
@@ -9190,7 +9190,7 @@ body:not(.isTouch) .aboutContact-itemTypes li a:hover {
 }
 
 .catalog-scroll .preview-block .preview-content {
-	background: #0c1d31;
+	background: #1d1e27;
 	padding: 1rem 1rem 0 1rem;
 	min-height: 135px;
 }
@@ -9388,7 +9388,7 @@ body:not(.isTouch) .aboutContact-itemTypes li a:hover {
 }
 
 .feed-scroll .preview-block .preview-content {
-	background: #0c1d31;
+	background: #1d1e27;
 	padding: 1rem 1rem 0 1rem;
 	min-height: 135px;
 }
@@ -10123,7 +10123,7 @@ body:not(.isTouch) .spotlight-featuredBlock span:hover {
 }
 
 .cardInfo {
-	background: #0c1d31;
+	background: #1d1e27;
 	color: #fff;
 	display: flex;
 	flex-direction: column;
@@ -10261,7 +10261,7 @@ body:not(.isTouch) .spotlight-featuredBlock span:hover {
 }
 
 .gallery-box .flex-gallery {
-	background: #000d1d;
+	background: #000011;
 	display: none;
 	position: fixed;
 	height: 100vh;
@@ -10440,7 +10440,7 @@ body:not(.isTouch) .video-box .flex-video-link:hover .video-box-cell .video-play
 }
 
 .video-box .flex-video {
-	background: #000d1d;
+	background: #000011;
 	display: none;
 	position: fixed;
 	height: 100%;
@@ -10513,7 +10513,7 @@ body:not(.isTouch) .call_to_action .cta-module-link:hover .cta-img-wrapper img {
 }
 
 .trailerItem {
-	background: #000d1d;
+	background: #000011;
 	border: 0;
 	cursor: pointer;
 	display: block;
@@ -10634,7 +10634,7 @@ body:not(.isTouch) .trailerItem:hover .trailerItem-thumbnail video {
 }
 
 .newsItem .newsItem-details, a.newsItem .newsItem-details {
-	background: #000d1d;
+	background: #000011;
 	color: #fff;
 	display: flex;
 	flex-direction: column;
@@ -10704,7 +10704,7 @@ body:not(.isTouch) .feed-catalog--post.feed-catalog--slim:hover .sectionItem:hov
 
 .newsItem-slim {
 	align-items: center;
-	background: #000d1d;
+	background: #000011;
 	display: flex;
 	padding: 8px;
 	position: relative;
@@ -10780,7 +10780,7 @@ body:not(.isTouch) .feed-catalog--post.feed-catalog--slim:hover .sectionItem:hov
 }
 
 .newsItem-slim .newsItem-slimEnding:before {
-	background: linear-gradient(to right, #000d1d 0%, #000d1d 65%, rgba(0, 0, 0, 0) 100%);
+	background: linear-gradient(to right, #000011 0%, #000011 65%, rgba(0, 0, 0, 0) 100%);
 	content: '';
 	display: block;
 	position: absolute;
@@ -10931,7 +10931,7 @@ body:not(.isTouch) .feed-catalog-showMoreBtn:hover {
 
 #properties-list .mainHighlight-image {
 	align-items: center;
-	background: #000d1d;
+	background: #000011;
 	display: flex;
 	line-height: 0;
 	justify-content: center;
@@ -10957,7 +10957,7 @@ body:not(.isTouch) #properties-list .mainHighlight-image:hover:before {
 }
 
 #properties-list .mainHighlight-content {
-	background: #000d1d;
+	background: #000011;
 	display: flex;
 	flex-direction: column;
 	padding: 20px;
@@ -11069,7 +11069,7 @@ body:not(.isTouch) #properties-list .mainHighlight-content .mainHighlight-readMo
 }
 
 .catalogItem .catalogItem-title {
-	background: #000d1d;
+	background: #000011;
 	color: #dedede;
 	font-family: 'gotham_bold';
 	font-size: 20px;
